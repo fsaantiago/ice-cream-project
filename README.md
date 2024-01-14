@@ -1,7 +1,7 @@
-# ice-cream-project(açaí bh newton)
+# ice-cream-project
 
 ## Description
-Uma aplicação extremamente simples com um CRUD de usuários e mensagens.
+Implementação em colaboração de uma aplicação Web para venda de Açaís e Sorvetes utilizando Java e Docker
 
 ## Installation
 PTBR: Instale o docker https://www.docker.com/get-started
